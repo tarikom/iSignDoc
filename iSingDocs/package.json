@@ -1,0 +1,23 @@
+{
+  "name": "isingdocs",
+  "version": "1.0.0",
+  "description": "Sign Docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "LobasO",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mongodb": "^3.1.8",
+    "morgan": "^1.9.1",
+    "oracledb": "^3.0.0"
+  }
+}
